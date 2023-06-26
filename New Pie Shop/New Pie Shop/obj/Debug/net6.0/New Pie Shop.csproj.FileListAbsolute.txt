@@ -1,0 +1,15 @@
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\bin\Debug\net6.0\New Pie Shop.exe
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\bin\Debug\net6.0\New Pie Shop.deps.json
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\bin\Debug\net6.0\New Pie Shop.runtimeconfig.json
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\bin\Debug\net6.0\New Pie Shop.dll
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\bin\Debug\net6.0\New Pie Shop.pdb
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\New Pie Shop.csproj.AssemblyReference.cache
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\New Pie Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\New Pie Shop.AssemblyInfoInputs.cache
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\New Pie Shop.AssemblyInfo.cs
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\New Pie Shop.csproj.CoreCompileInputs.cache
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\New Pie Shop.dll
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\refint\New Pie Shop.dll
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\New Pie Shop.pdb
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\New Pie Shop.genruntimeconfig.cache
+C:\Users\subhalam\source\repos\New Pie Shop\New Pie Shop\obj\Debug\net6.0\ref\New Pie Shop.dll
